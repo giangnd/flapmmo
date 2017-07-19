@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500398303,
+	"version": 1500454216,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,7 +14,6 @@
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
 		"images/background.png",
-		"images/sprite2-sheet0.png",
 		"images/playbutton-sheet0.png",
 		"images/gamename-sheet0.png",
 		"media/sfx_die.ogg",
